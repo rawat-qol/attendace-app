@@ -92,7 +92,6 @@ Chase. Chase was one of the first banks to move into mobile and has refined its 
                         <img
                             className="w-full rounded-lg"
                             src="./images/aws-reports.png"
-                            alt="Report 3 Image"
                         />
                     </div>
                 </div>

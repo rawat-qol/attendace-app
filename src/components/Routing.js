@@ -18,7 +18,6 @@ class Routing extends Component {
                          <div className="flex space-x-4">
                          <img
                          src="./images/logo.jpg"         
-                         alt="Logo"
                          className="h-8"
                          width="60"
                          height="60"

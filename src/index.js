@@ -4,8 +4,6 @@ import Routing from './components/Routing';
 
 import './index.css';
 import './styles/main.css';
-import App from './App';
-
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
